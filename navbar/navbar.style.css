@@ -1,0 +1,16 @@
+#navbar ul{
+list-style-type: none;
+display: inline-block;
+overflow: hidden;
+font-size: 14px;
+padding-right: 15px;
+}
+
+#navbar a{
+color: #fff;
+text-decoration: none;
+}
+
+ul a:hover {
+ background-color: #EC008C;
+}
