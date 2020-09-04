@@ -1,0 +1,109 @@
+body {
+  background-color: black;
+  color: #EC008C; 
+  font-family: 'gotham' sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 1.5em;
+ }
+ 
+#navbar ul{
+list-style-type: none;
+display: inline-block;
+overflow: hidden;
+font-size: 14px;
+padding-right: 15px;
+}
+
+#navbar a{
+color: #fff;
+text-decoration: none;
+}
+
+ul a:hover {
+ background-color: #EC008C;
+}
+
+.container{
+width: 80%;
+margin:auto;
+overflow: hidden;
+}
+
+.box-1{
+ background-color: #555555;
+ color: #fff;
+ border-style: solid;
+ border-color: #EC008C;
+ border-width: 2px;
+ border-radius: 15px;
+ padding: 20px;
+ margin-top: 5;
+ margin: 20px 0;
+}
+
+
+.box-1 h5{
+ font-family: sans-serif;
+ text-transform: uppercase;
+ font-weight: 800;
+ color: #EC008C;  
+ border-radius:15px;
+}
+
+.header {
+text-align: center;
+}
+
+.box-2{
+ background-color: #555555;
+ color: #fff;
+ border-style: solid;
+ border-color: #EC008C;
+ border-width: 2px;
+ border-radius: 15px;
+ padding: 20px;
+ margin-top: 5;
+ margin: 20px 0;
+}
+
+.box-2 h5{
+ font-family: sans-serif;
+ text-transform: uppercase;
+ font-weight: 800;
+ color: #EC008C;  
+ border-radius:15px;
+}
+
+
+.box-3{
+ background-color: #555555;
+ color: #fff;
+ border-style: solid;
+ border-color: #EC008C;
+ border-width: 2px;
+ border-radius: 15px;
+ padding: 20px;
+ margin-top: 5;
+ margin: 20px 0;
+}
+
+.box-3 h5{
+ font-family: sans-serif;
+ text-transform: uppercase;
+ font-weight: 800;
+ color: #EC008C;  
+ border-radius:15px;
+}
+
+
+#main-footer{
+  background :#EC008C;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+
+}
+
+
