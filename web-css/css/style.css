@@ -1,0 +1,63 @@
+/* my first css */
+
+/*font styling*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(81, 181, 211);
+}
+/*img styling*/
+img {
+    border: 5px solid rgb(115, 45, 230);
+}
+/*h1 styling*/
+h1 {
+ border: 5px solid rgb(218, 70, 198);
+}
+/*use rem for font styling*/
+h1 {
+    font-size: 3rem;
+   }
+/*class*/
+.para1 {
+    text-align: center;
+}   
+#myid {
+color:   greenyellow;
+}
+/*quote*/
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    font-style: italic;
+    text-align: center;
+}
+/*quoted person*/
+cite {
+    font-size: 1rem;
+    font-weight: bold;
+}
+/*class created*/
+.bigbold {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+}
+/* psuedo class a:link shows a visted link
+there are two ways to write alink 
+group a:link or individaul a:frontmasters:link */
+ul a:link {
+    font-weight: bold;
+    text-decoration: none;
+    color: hotpink;
+}
+/*link has been visted*/
+a:visited {
+    color: rgb(178, 32, 81);
+    font-weight: normal;
+}
+/*hover styling*/
+a:hover {
+    color: royalblue;
+    text-decoration: underline;
+    background-color: seashell;
+}

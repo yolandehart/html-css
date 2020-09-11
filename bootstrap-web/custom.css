@@ -1,0 +1,54 @@
+/* startglobal styles */
+
+ body {
+	padding-top: 54px: 
+}
+
+
+@media (min-width: 292px) {
+   body {
+   	padding-top: 30px;
+  }
+}
+
+
+
+.carousel-item {
+	height: 65px;
+	min-height: 350px;
+	background: no-repeat center center scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+}
+
+.porfolio-item {
+	margin-bottom: 30px;
+}
+
+
+/* call button hover boxes */
+.btn btn-primary:hover {
+	color: #fff;
+	background-color: #0000;
+	border-color: #0000;
+}
+
+
+/* call to action button hover */
+.btn btn-secondary:hover {
+	color: #fff;
+	background-color: #0000;
+	border-color: #0000;
+}
+
+
+/* changes header & footer colour 
+.bg-dark {
+	background-color: #343a40!important;
+} */
+
+
+/* end global styles */
+
+
